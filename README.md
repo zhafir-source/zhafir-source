@@ -40,23 +40,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development Tools"/>
 </p>
 
----
-
-## 📊 My Skills
-
-| Technology   | Proficiency |
-| ------------ | ----------: |
-| HTML         |         85% |
-| CSS          |         80% |
-| JavaScript   |         75% |
-| Dart         |         90% |
-| Next.js      |         75% |
-| React.js     |         70% |
-| TypeScript   |         65% |
-| Tailwind CSS |         75% |
-
----
-
 ## 🚀 Featured Projects
 
 Check out my projects and development journey on my portfolio.
