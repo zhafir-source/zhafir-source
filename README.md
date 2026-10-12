@@ -8,18 +8,6 @@
 
 🚀 Explore my work: **[Personal Portfolio](https://web-portofolio-zhafir.vercel.app/)**
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://web-portofolio-zhafir.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -40,25 +28,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development Tools"/>
 </p>
 
-## 🚀 Featured Projects
-
-Check out my projects and development journey on my portfolio.
-
-<p align="left">
-  <a href="https://web-portofolio-zhafir.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects"/>
-  </a>
-</p>
-
----
-
 ## 📫 Get In Touch
 
 Have a project idea or want to collaborate?
 
 * 🌐 **Portfolio:** [web-portofolio-zhafir.vercel.app](https://web-portofolio-zhafir.vercel.app/)
 * 💬 **WhatsApp:** Available through my portfolio
-* 📧 **Email:** Available through my portfolio
+* 📧 **Email:** zhafirakbara@gmail.com
 
 ---
 
