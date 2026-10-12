@@ -33,7 +33,7 @@
 Have a project idea or want to collaborate?
 
 * 🌐 **Portfolio:** [web-portofolio-zhafir.vercel.app](https://web-portofolio-zhafir.vercel.app/)
-* 📧 **Email:** [zhafirakbara@gmail.com](https://zhafirakbara@gmail.com)
+* 📧 **Email:** [zhafirakbara@gmail.com](https://mail.google.com/mail/?view=cm&to=zhafirakbara@gmail.com)
 
 ---
 
